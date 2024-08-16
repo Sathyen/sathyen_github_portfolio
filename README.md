@@ -9,4 +9,5 @@ Projects
 Retail Data Analysis (Dec 2022 vs Dec 2023)
 
 Description: Analyzed sales and customer behavior for a US-based toy retailer across two December periods. Focused on key performance indicators (KPIs), store performance, customer segmentation, and channel-specific trends.
+
 Key Skills: SQL, KPI analysis, data comparison, store segmentation, customer profiling
