@@ -1,7 +1,6 @@
 Retail Analysis in SQL - December 2022 and 2023
 
 Overview 
-
 The project provides an in-depth comparison of retail performance for a US-based toy retailer during the months of December 2022 and December 2023. The analysis focuses on key performance indicators (KPIs) such as sales, customer visits, and quantity sold, while also examining customer segments, store performance, and purchase channels.
 
 Objectives 
